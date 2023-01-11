@@ -1,0 +1,43 @@
+Operators:
+    Operators are diferent symbols we can use to perform operations like addition, substractions we can compare things if two
+    entities are same or not if a number is gheater than the other number or not .
+    There are three main types of operators. They are Arithmetics operators, Relational operators andlogical
+    operators.
+
+Arithmetic operators:
+    We use Arithmetic operators to perform simple math operations. Like additions, substraction etc.
+    + => Addition
+    - => substraction
+    / => Division
+    * => multiplication
+    % => moduls , remainder
+
+Relational operators:
+    Relational operators are used to compare two quantities or entities. for example if something is bigger than other thing or if two
+    number are same or not or if two boolean variables contain same value or not.
+    == => used to check if two variables contain the same value or not if same we get true otherwise we get false.
+    != => used to check if two variables don't contain the same value. we get a true if they are not same.
+    >  => used to check if one value is greather than other value or not if greater we get a true
+    <  => used to check if value on the left is smaller than the value on right side we will get a true.
+    >= => if the value on left is greater than the value on right side or if they are same we will get a true
+    <= => it oposite of >= and it used to check if something is less than or equal to other thing
+
+Conditional constructs:
+    Used to write conditional code. a piece of code that execute based on a condition if condition is true that java execute
+    the code otherwise it skip that code.
+    How to write Ifelse conditions:
+    if (condition){
+    any line of code even another if condition
+
+    if(){
+    }
+
+    }
+    Important notes:
+    1)for String we use equals method instead of === sign because it s a non-primitive data type
+    2) We can cmd+opt+l(mac) ctrl+alt+l (Windows) to format our code.
+    3) if we are confused about brackets we can click on opening or closing part to check the other part.
+
+    If else conditions
+    when we have to test the same variable for multiple conditions i should use if else if
+    when we have multiple conditions and these conditions are dependt on each other Nested if conditions
