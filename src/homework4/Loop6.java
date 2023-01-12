@@ -8,12 +8,14 @@ public class Loop6 {
             number+=2;
 
         }
-        System.out.println("***********");
-        int number2=2;
-                while(number2<=20){
 
-                    System.out.println(number2);
-                    number2++;
+        System.out.println("***********");
+        int number1=20;
+                while(number1>=1){
+                    if (number1%2==0)
+
+                    System.out.println(number1);
+                    number1--;
                 }
 
     }
